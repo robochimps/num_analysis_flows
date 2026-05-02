@@ -26,9 +26,8 @@ Citation
 If you use this code in your research, please cite:
 
 > Y. Saleh: Convergence theory for Hermite approximations under adaptive
-> coordinate transformations. arXiv. 7494109 (2026).
-> [DOI:tba](https://doi.org/10.1007/s11785-025-01874-5).
-
+> coordinate transformations. arXiv:2604.16975 (2026).
+> [DOI:10.48550](https://doi.org/10.48550/arXiv.2604.16975).
 
 ```bibtex
 @article{Saleh:arXiv2604:16975,
