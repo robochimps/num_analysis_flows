@@ -3,8 +3,8 @@
 This repository contains source code and results of calculations accompanying the manuscript:
 
 > Y. Saleh: Convergence theory for Hermite approximations under adaptive
-> coordinate transformations. arXiv. 7494109 (2026).
-> [DOI:tba](https://doi.org/10.1007/s11785-025-01874-5).
+> coordinate transformations. arXiv:2604.16975 (2026).
+> [DOI:10.48550](https://doi.org/10.48550/arXiv.2604.16975).
 
 Contents
 ---
@@ -31,17 +31,12 @@ If you use this code in your research, please cite:
 
 
 ```bibtex
-@article{Saleh:CAOT20:21,
+@article{Saleh:arXiv2604:16975,
 	author = {Saleh, Yahya},
-	year   = {2025},
-	isbn   = {1661-8262},
-	journal= {...},
-	number = {1},
-	pages  = {21},
+	year   = {2026},
+	journal= {arXiv preprint arXiv:2604.16975},
 	title  = {Convergence theory for Hermite approximations under adaptive coordinate transformations},
-	url    = {https://doi.org/10.1007/s11785-025-01874-5},
-	volume = {20},
-	doi    = {10.1007/s11785-025-01874-5},
+	doi    = {https://doi.org/10.48550/arXiv.2604.16975},
   }
 ```
 
